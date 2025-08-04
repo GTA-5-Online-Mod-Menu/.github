@@ -1,4 +1,4 @@
-# GTA 5 Online Mod Menu 🎮
+# Free GTA 5 Online Mod Menu 🎮
 
 ![GTA 5 Mod Menu Showcase](https://github.com/GTA-5-Online-Mod-Menu/.github/blob/main/mod_menu_gaming.png?raw=true)
 
