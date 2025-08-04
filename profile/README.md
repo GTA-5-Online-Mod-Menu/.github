@@ -11,6 +11,7 @@ Customize your gameplay, explore hidden features, and dominate the streets of Lo
 - ✅ Undetected online mod menu  
 - ✅ Vehicle spawning & customization  
 - ✅ Money & RP options  
+- ✅ BattlEye Bypass  
 - ✅ Teleport anywhere instantly  
 - ✅ Weapon modifications  
 - ✅ Easy-to-use interface  
