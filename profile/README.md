@@ -3,7 +3,7 @@
 ![GTA 5 Mod Menu Showcase](https://github.com/GTA-5-Online-Mod-Menu/.github/blob/main/mod_menu_gaming.png?raw=true)
 
 Unlock the full potential of **GTA 5 Online** with our free and powerful **Mod Menu**.  
-Customize your gameplay, explore hidden features, and dominate the streets of Los Santos with ease.
+Customize your gameplay, explore hidden features, and dominate the streets of Los Santos with ease using our GTA 5 mod menu.
 
 ---
 
@@ -35,7 +35,7 @@ Get started in seconds — download now:
 ---
 
 ## ⚠️ Disclaimer
-This tool is for **educational purposes only**.  
+This GTA 5 mod menu tool is for **educational purposes only**.  
 Use responsibly — we are not responsible for account bans or other consequences.  
 
 ---
